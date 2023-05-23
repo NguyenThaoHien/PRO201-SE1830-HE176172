@@ -1,4 +1,4 @@
-README:
+
 Class: SE1830
 
 Name Student: Nguyen Thao Hien
